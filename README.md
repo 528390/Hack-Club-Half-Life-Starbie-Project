@@ -36,3 +36,9 @@ https://github.com/528390/Hack-Club-Half-Life/blob/main/Starbie_PCB_layout.png.p
 
 PCB Schematic Layout:
 https://github.com/528390/Hack-Club-Half-Life/blob/main/Starbie_PCB_Schematic_Layout.png.png 
+
+PCB Images
+<img width="856" height="662" alt="Starbie_PCB_layout png" src="https://github.com/user-attachments/assets/169cc237-5641-49b3-b92c-559e51959291" />
+<img width="762" height="750" alt="Starbie_PCB_Schematic_Layout png" src="https://github.com/user-attachments/assets/aa867f0e-4ecf-47cb-adad-9bd1de7a70a3" />
+
+
