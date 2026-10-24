@@ -41,4 +41,15 @@ PCB Images
 <img width="856" height="662" alt="Starbie_PCB_layout png" src="https://github.com/user-attachments/assets/169cc237-5641-49b3-b92c-559e51959291" />
 <img width="762" height="750" alt="Starbie_PCB_Schematic_Layout png" src="https://github.com/user-attachments/assets/aa867f0e-4ecf-47cb-adad-9bd1de7a70a3" />
 
+Bill of Materials(BOM)
 
+| Part / Material | Quantity | Unit Price | Buying Link |
+|---|---|---|---|
+| XIAO ESP32-C3 | 1 | $5.00 | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?srsltid=AU7gw4V6TfENxZQmkH_F8Mk83ftgqdZAT28t9kuUnMG3zEgQpXikfw4o)|
+| 0.96-inch OLED display | 1 | $2.50 | [OLED display](https://www.amazon.com/dp/B0GBVWBWCR?th=1) |
+| MPU6050 sensor module | 1 | $2.29 | [MPU6050 module](https://www.amazon.com/dp/B0943SGP34) |
+| DHT11 temperature and humidity sensor | 1 | $2.00 | [DHT11 module](https://www.amazon.com/dp/B0BLG7R99R) |
+| MX Switches | 2 | $0.18 | [Push buttons](https://www.amazon.com//dp/B0FQP8VYX4) |
+| Resistor | 1 | $0.05 | [Resistor](https://www.amazon.com/dp/B0B4JFPHTW?th=1) |
+| Custom PCB | 1 | $10.30 | [PCB manufacturing](https://jlcpcb.com/) |
+| MX Keycaps | 2 | $0.60 | [Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY?th=1) |
