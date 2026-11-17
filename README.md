@@ -32,7 +32,7 @@ JOURNAL.md — Project progress and development notes(written from the Hack Club
 Additional PCB design files and Arduino firmware will be added as they are organized
 
 PCB Design:
-https://github.com/528390/Hack-Club-Half-Life/blob/main/Starbie_PCB_layout.png.png 
+https://github.com/528390/Hack-Club-Half-Life-Starbie-Project/blob/main/Starbie_PCB_layout.png 
 
 PCB Schematic Layout:
 https://github.com/528390/Hack-Club-Half-Life/blob/main/Starbie_PCB_Schematic_Layout.png.png 
